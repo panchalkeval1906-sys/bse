@@ -1,0 +1,18 @@
+[Unit]
+Description=BSE backfill enrich (auto-restart, memory limit)
+After=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/root/bse_bot
+ExecStart=/usr/bin/python3 /root/bse_bot/price_backfill.py enrich
+Restart=always
+RestartSec=60
+RestartPreventExitStatus=3
+RuntimeMaxSec=7200
+MemoryMax=330M
+StandardOutput=append:/root/bse_bot/bf_enrich_svc.log
+StandardError=append:/root/bse_bot/bf_enrich_svc.log
+
+[Install]
+WantedBy=multi-user.target

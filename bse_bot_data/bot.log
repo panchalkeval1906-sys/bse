@@ -1,0 +1,450 @@
+2026-09-12 20:28:18,754 | INFO | =======================================================
+2026-09-12 20:28:18,754 | INFO |   BSE Announcements -> Telegram Bot Started
+2026-09-12 20:28:18,755 | INFO |   Poll interval: 180s
+2026-09-12 20:28:18,755 | INFO | =======================================================
+2026-09-12 20:28:18,755 | INFO | Pehle se 0 announcements 'seen' hai (dedup list)
+2026-09-12 20:28:38,602 | INFO | 345 naye announcements mile, Telegram par bhej raha hoon...
+2026-09-12 20:28:43,060 | INFO | Sent: Syngene International Ltd
+2026-09-12 20:28:44,907 | INFO | Sent: Avantel Ltd
+2026-09-12 20:28:46,847 | INFO | Sent: VIP Clothing Ltd
+2026-09-12 20:28:48,726 | INFO | Sent: Maruti Suzuki India Ltd
+2026-09-12 20:28:52,210 | INFO | Sent: CLC Industries Ltd
+2026-09-12 20:28:54,046 | INFO | Sent: Toss The Coin Ltd
+2026-09-12 20:28:56,073 | INFO | Sent: Jayant Agro Organics Ltd
+2026-09-12 20:28:57,970 | INFO | Sent: Jayant Agro Organics Ltd
+2026-09-12 20:28:59,840 | INFO | Sent: Silicon Rental Solutions Ltd
+2026-09-12 20:29:01,864 | INFO | Sent: Venus Pipes & Tubes Ltd
+2026-09-12 20:29:03,785 | INFO | Sent: Galactico Corporate Services Ltd
+2026-09-12 20:29:05,645 | INFO | Sent: Maple Infrastructure Trust
+2026-09-12 20:29:07,480 | INFO | Sent: Subex Ltd
+2026-09-12 20:29:09,332 | INFO | Sent: Galactico Corporate Services Ltd
+2026-09-12 20:29:11,251 | INFO | Sent: Maple Infrastructure Trust
+2026-09-12 20:29:13,176 | INFO | Sent: SMC Global Securities Ltd
+2026-09-12 20:29:15,044 | INFO | Sent: Dolphin Medical Services Ltd
+2026-09-12 20:29:16,875 | INFO | Sent: Airfloa Rail Technology Ltd
+2026-09-12 20:29:18,803 | INFO | Sent: Dolphin Medical Services Ltd
+2026-09-12 20:29:20,630 | INFO | Sent: Salzer Electronics Ltd-$
+2026-09-12 20:29:22,498 | INFO | Sent: Venus Pipes & Tubes Ltd
+2026-09-12 20:29:24,371 | INFO | Sent: Entero Healthcare Solutions Ltd
+2026-09-12 20:29:26,245 | INFO | Sent: Grand Foundry Ltd
+2026-09-12 20:29:28,126 | INFO | Sent: Jayaswal Neco Industries Ltd
+2026-09-12 20:29:29,993 | INFO | Sent: Avantel Ltd
+2026-09-12 20:29:31,884 | INFO | Sent: QGO Finance Ltd
+2026-09-12 20:29:33,809 | INFO | Sent: Shankara Buildpro Ltd
+2026-09-12 20:29:35,634 | INFO | Sent: Kiran Syntex Ltd
+2026-09-12 20:29:37,487 | INFO | Sent: Om Power Transmission Ltd
+2026-09-12 20:29:39,525 | INFO | Sent: Women Networks Ltd
+2026-09-12 20:29:41,407 | INFO | Sent: Vishnu Prakash R Punglia Ltd
+2026-09-12 20:29:43,291 | INFO | Sent: MBL Infrastructure Ltd
+2026-09-12 20:29:45,365 | INFO | Sent: ARSS Infrastructure Projects Ltd
+2026-09-12 20:29:47,212 | INFO | Sent: Salzer Electronics Ltd-$
+2026-09-12 20:29:49,082 | INFO | Sent: Saboo Sodium Chloro Ltd
+2026-09-12 20:29:50,901 | INFO | Sent: Gyan Developers & Builders Ltd
+2026-09-12 20:29:52,759 | INFO | Sent: Saboo Sodium Chloro Ltd
+2026-09-12 20:29:54,663 | INFO | Sent: ASM Technologies Ltd
+2026-09-12 20:29:56,508 | INFO | Sent: CISTRO Telelink Ltd
+2026-09-12 20:29:58,358 | INFO | Sent: CISTRO Telelink Ltd
+2026-09-12 20:30:00,227 | INFO | Sent: Vraj Iron And Steel Ltd
+2026-09-12 20:30:02,224 | INFO | Sent: GG Automotive Gears Ltd
+2026-09-12 20:30:04,156 | INFO | Sent: Dhoot Transmission Ltd
+2026-09-12 20:30:05,986 | INFO | Sent: UltraTech Cement Ltd
+2026-09-12 20:30:07,845 | INFO | Sent: Tiaan Consumer Ltd
+2026-09-12 20:30:09,689 | INFO | Sent: Grand Foundry Ltd
+2026-09-12 20:30:11,512 | INFO | Sent: GTT Data Solutions Ltd
+2026-09-12 20:30:13,446 | INFO | Sent: Subhash Silk Mills Ltd
+2026-09-12 20:30:15,328 | INFO | Sent: GG Automotive Gears Ltd
+2026-09-12 20:30:17,177 | INFO | Sent: Gemstone Investments Ltd
+2026-09-12 20:30:19,071 | INFO | Sent: Bai-Kakaji Polymers Ltd
+2026-09-12 20:30:20,921 | INFO | Sent: Regaal Resources Ltd
+2026-09-12 20:30:22,761 | INFO | Sent: Avance Technologies Ltd
+2026-09-12 20:30:24,657 | INFO | Sent: Tiaan Consumer Ltd
+2026-09-12 20:30:26,502 | INFO | Sent: Oxford Industries Ltd
+2026-09-12 20:30:28,348 | INFO | Sent: Indo Thai Securities Ltd
+2026-09-12 20:30:30,190 | INFO | Sent: Suraj Products Ltd
+2026-09-12 20:30:32,062 | INFO | Sent: Oxford Industries Ltd
+2026-09-12 20:30:34,012 | INFO | Sent: Indo Thai Securities Ltd
+2026-09-12 20:30:35,900 | INFO | Sent: Hampton Sky Realty Ltd
+2026-09-12 20:30:37,843 | INFO | Sent: LAPL Automotive Ltd
+2026-09-12 20:30:39,789 | INFO | Sent: Rashtriya Chemicals and Fertilizers Ltd
+2026-09-12 20:30:41,659 | INFO | Sent: T T Ltd-$
+2026-09-12 20:30:43,634 | INFO | Sent: Oscar Global Ltd
+2026-09-12 20:30:45,553 | INFO | Sent: T T Ltd-$
+2026-09-12 20:30:47,575 | INFO | Sent: Kiran Syntex Ltd
+2026-09-12 20:30:49,469 | INFO | Sent: Prime Industries Ltd
+2026-09-12 20:30:51,313 | INFO | Sent: Roopshri Resorts Ltd
+2026-09-12 20:30:53,189 | INFO | Sent: Prime Industries Ltd
+2026-09-12 20:30:55,019 | INFO | Sent: Premier Capital Services Ltd
+2026-09-12 20:30:56,863 | INFO | Sent: Aayush Wellness Ltd
+2026-09-12 20:30:58,719 | INFO | Sent: Looks Health Services Ltd
+2026-09-12 20:31:00,553 | INFO | Sent: Hero MotoCorp Ltd
+2026-09-12 20:31:02,397 | INFO | Sent: Clean Science and Technology Ltd
+2026-09-12 20:31:04,250 | INFO | Sent: OM Infra Ltd
+2026-09-12 20:31:06,303 | INFO | Sent: Aris International Ltd
+2026-09-12 20:31:08,709 | INFO | Sent: Clean Science and Technology Ltd
+2026-09-12 20:31:10,549 | INFO | Sent: Motisons Jewellers Ltd
+2026-09-12 20:31:12,447 | INFO | Sent: Deccan Gold Mines Ltd
+2026-09-12 20:31:14,344 | INFO | Sent: Nihar Info Global Ltd
+2026-09-12 20:31:16,166 | INFO | Sent: Alicon Castalloy Ltd
+2026-09-12 20:31:18,036 | INFO | Sent: Clean Science and Technology Ltd
+2026-09-12 20:31:20,149 | INFO | Sent: Jayaswal Neco Industries Ltd
+2026-09-12 20:31:21,999 | INFO | Sent: GEE Ltd
+2026-09-12 20:31:23,899 | INFO | Sent: Clean Science and Technology Ltd
+2026-09-12 20:31:25,760 | INFO | Sent: Arigato Universe Ltd
+2026-09-12 20:31:27,606 | INFO | Sent: Lumino Industries Ltd
+2026-09-12 20:31:29,489 | INFO | Sent: Aspira Pathlab & Diagnostics Ltd
+2026-09-12 20:31:31,372 | INFO | Sent: NTPC Ltd
+2026-09-12 20:31:33,241 | INFO | Sent: Sportking India Ltd
+2026-09-12 20:31:35,114 | INFO | Sent: Tacent Projects Ltd
+2026-09-12 20:31:37,063 | INFO | Sent: M.K. Exim (India) Ltd
+2026-09-12 20:31:38,944 | INFO | Sent: M.K. Exim (India) Ltd
+2026-09-12 20:31:40,807 | INFO | Sent: Rekvina Laboratories Ltd
+2026-09-12 20:31:42,650 | INFO | Sent: Aspira Pathlab & Diagnostics Ltd
+2026-09-12 20:31:44,546 | INFO | Sent: Cenlub Industries Ltd
+2026-09-12 20:31:46,447 | INFO | Sent: Grasim Industries Ltd
+2026-09-12 20:31:48,325 | INFO | Sent: Looks Health Services Ltd
+2026-09-12 20:31:50,214 | INFO | Sent: MBL Infrastructure Ltd
+2026-09-12 20:31:52,141 | INFO | Sent: Aspira Pathlab & Diagnostics Ltd
+2026-09-12 20:31:54,039 | INFO | Sent: PVV Infra Ltd
+2026-09-12 20:31:55,896 | INFO | Sent: Lalithaa Jewellery Mart Ltd
+2026-09-12 20:31:57,742 | INFO | Sent: Apollo Finvest India Ltd
+2026-09-12 20:31:59,617 | INFO | Sent: Continental Securities Ltd
+2026-09-12 20:32:01,505 | INFO | Sent: Padmanabh Alloys & Polymers Ltd
+2026-09-12 20:32:03,320 | INFO | Sent: Padmanabh Alloys & Polymers Ltd
+2026-09-12 20:32:05,164 | INFO | Sent: Looks Health Services Ltd
+2026-09-12 20:32:07,341 | INFO | Sent: Manoj Jewellers Ltd
+2026-09-12 20:32:09,204 | INFO | Sent: Shanti Spintex Ltd
+2026-09-12 20:32:11,045 | INFO | Sent: Looks Health Services Ltd
+2026-09-12 20:32:12,945 | INFO | Sent: Take Ltd
+2026-09-12 20:32:14,790 | INFO | Sent: Sportking India Ltd
+2026-09-12 20:32:16,663 | INFO | Sent: Aryaman Financial Services Ltd
+2026-09-12 20:32:18,609 | INFO | Sent: Aanchal Ispat Ltd
+2026-09-12 20:32:20,508 | INFO | Sent: Dishman Carbogen Amcis Ltd
+2026-09-12 20:32:22,363 | INFO | Sent: Shree Ganesh Remedies Ltd
+2026-09-12 20:32:24,239 | INFO | Sent: Yash Highvoltage Ltd
+2026-09-12 20:32:26,102 | INFO | Sent: Anand Rayons Ltd
+2026-09-12 20:32:27,978 | INFO | Sent: Gulf Oil Lubricants India Ltd
+2026-09-12 20:32:29,796 | INFO | Sent: Kesoram Industries Ltd
+2026-09-12 20:32:31,678 | INFO | Sent: Shilpa Medicare Ltd
+2026-09-12 20:32:33,565 | INFO | Sent: HDFC Bank Ltd
+2026-09-12 20:32:35,416 | INFO | Sent: SKP Securities Ltd
+2026-09-12 20:32:37,252 | INFO | Sent: Axel Polymers Ltd
+2026-09-12 20:32:39,087 | INFO | Sent: Sandu Pharmaceuticals Ltd
+2026-09-12 20:32:40,941 | INFO | Sent: JSW Steel Ltd
+2026-09-12 20:32:42,775 | INFO | Sent: Tree House Education & Accessories Ltd
+2026-09-12 20:32:44,672 | INFO | Sent: 3B Films Ltd
+2026-09-12 20:32:46,543 | INFO | Sent: SKP Securities Ltd
+2026-09-12 20:32:48,520 | INFO | Sent: Aether Industries Ltd
+2026-09-12 20:32:50,404 | INFO | Sent: Piramal Finance Ltd
+2026-09-12 20:32:52,257 | INFO | Sent: SKP Securities Ltd
+2026-09-12 20:32:54,126 | INFO | Sent: Western Overseas Study Abroad Ltd
+2026-09-12 20:32:55,999 | INFO | Sent: SKP Securities Ltd
+2026-09-12 20:32:57,866 | INFO | Sent: BLB Ltd
+2026-09-12 20:32:59,771 | INFO | Sent: Beekay Steel Industries Ltd
+2026-09-12 20:33:01,802 | INFO | Sent: Shah Alloys Ltd
+2026-09-12 20:33:03,702 | INFO | Sent: Landsmill Green Ltd
+2026-09-12 20:33:05,580 | INFO | Sent: Flomic Global Logistics Ltd
+2026-09-12 20:33:07,448 | INFO | Sent: Ganesh Housing Ltd-$
+2026-09-12 20:33:09,414 | INFO | Sent: Sterling Powergensys Ltd
+2026-09-12 20:33:11,288 | INFO | Sent: Midwest Energy Ltd
+2026-09-12 20:33:13,198 | INFO | Sent: Flomic Global Logistics Ltd
+2026-09-12 20:33:15,049 | INFO | Sent: Ganesh Housing Ltd-$
+2026-09-12 20:33:16,899 | INFO | Sent: Spandana Sphoorty Financial Ltd
+2026-09-12 20:33:18,834 | INFO | Sent: Tanvi Foods (India) Ltd
+2026-09-12 20:33:20,710 | INFO | Sent: Bansal Roofing Products Ltd
+2026-09-12 20:33:22,672 | INFO | Sent: Indian Infotech & Software Ltd
+2026-09-12 20:33:24,525 | INFO | Sent: TD Power Systems Ltd
+2026-09-12 20:33:26,417 | INFO | Sent: RRIL Ltd
+2026-09-12 20:33:28,291 | INFO | Sent: Colab Platforms Ltd
+2026-09-12 20:33:30,181 | INFO | Sent: Munjal Auto Industries Ltd
+2026-09-12 20:33:32,064 | INFO | Sent: South West Pinnacle Exploration Ltd
+2026-09-12 20:33:33,937 | INFO | Sent: SJ Corporation Ltd
+2026-09-12 20:33:35,831 | INFO | Sent: Jaro Institute of Technology Management and Research Ltd
+2026-09-12 20:33:37,654 | INFO | Sent: Empower India Ltd
+2026-09-12 20:33:39,538 | INFO | Sent: NTPC Green Energy Ltd
+2026-09-12 20:33:41,428 | INFO | Sent: W. S. Industries (India) Ltd-$
+2026-09-12 20:33:43,490 | INFO | Sent: Baroda Rayon Corporation Ltd
+2026-09-12 20:33:45,344 | INFO | Sent: Vishal Fabrics Ltd
+2026-09-12 20:33:47,193 | INFO | Sent: NMS Global Ltd
+2026-09-12 20:33:49,059 | INFO | Sent: Suprajit Engineering Ltd-$
+2026-09-12 20:33:50,948 | INFO | Sent: Continental Securities Ltd
+2026-09-12 20:33:52,849 | INFO | Sent: Tavexia Lifecare Ltd
+2026-09-12 20:33:54,701 | INFO | Sent: Gala Global Products Ltd
+2026-09-12 20:33:56,524 | INFO | Sent: Continental Securities Ltd
+2026-09-12 20:33:58,586 | INFO | Sent: Bharat Bhushan Finance & Commodity Brokers Ltd
+2026-09-12 20:34:00,478 | INFO | Sent: INTERISE TRUST
+2026-09-12 20:34:02,337 | INFO | Sent: Repono Ltd
+2026-09-12 20:34:04,170 | INFO | Sent: Repono Ltd
+2026-09-12 20:34:06,006 | INFO | Sent: Sandu Pharmaceuticals Ltd
+2026-09-12 20:34:07,834 | INFO | Sent: Aro Granite Industries Ltd-$
+2026-09-12 20:34:09,722 | INFO | Sent: Mukka Proteins Ltd
+2026-09-12 20:34:11,645 | INFO | Sent: Shalby Ltd
+2026-09-12 20:34:13,867 | INFO | Sent: Max heights Infrastucture Ltd
+2026-09-12 20:34:15,757 | INFO | Sent: BMW Industries Ltd
+2026-09-12 20:34:17,621 | INFO | Sent: KS Smart Technologies Ltd
+2026-09-12 20:34:19,507 | INFO | Sent: 7NR Retail Ltd
+2026-09-12 20:34:21,360 | INFO | Sent: Novartis India Ltd
+2026-09-12 20:34:23,343 | INFO | Sent: Kallam Textiles Ltd-$
+2026-09-12 20:34:25,234 | INFO | Sent: Bodal Chemicals Ltd
+2026-09-12 20:34:27,171 | INFO | Sent: Sandu Pharmaceuticals Ltd
+2026-09-12 20:34:29,041 | INFO | Sent: 7NR Retail Ltd
+2026-09-12 20:34:30,947 | INFO | Sent: SJ Corporation Ltd
+2026-09-12 20:34:32,852 | INFO | Sent: GEE Ltd
+2026-09-12 20:34:34,702 | INFO | Sent: SJ Corporation Ltd
+2026-09-12 20:34:36,628 | INFO | Sent: Kesoram Industries Ltd
+2026-09-12 20:34:38,482 | INFO | Sent: 7NR Retail Ltd
+2026-09-12 20:34:40,400 | INFO | Sent: HCKK Ventures Ltd
+2026-09-12 20:34:42,312 | INFO | Sent: Encash Entertainment Ltd
+2026-09-12 20:34:44,188 | INFO | Sent: Balrampur Chini Mills Ltd
+2026-09-12 20:34:46,065 | INFO | Sent: Alliance Integrated Metaliks Ltd
+2026-09-12 20:34:47,922 | INFO | Sent: Alliance Integrated Metaliks Ltd
+2026-09-12 20:34:49,772 | INFO | Sent: Kesoram Industries Ltd
+2026-09-12 20:34:51,721 | INFO | Sent: Poojawestern Metaliks Ltd
+2026-09-12 20:34:53,590 | INFO | Sent: Ratnaveer Precision Engineering Ltd
+2026-09-12 20:34:55,414 | INFO | Sent: Kesoram Industries Ltd
+2026-09-12 20:34:57,279 | INFO | Sent: MKP Mobility Ltd
+2026-09-12 20:34:59,174 | INFO | Sent: Balrampur Chini Mills Ltd
+2026-09-12 20:35:01,028 | INFO | Sent: Lloyds Engineering Works Ltd
+2026-09-12 20:35:02,866 | INFO | Sent: Kesoram Industries Ltd
+2026-09-12 20:35:04,727 | INFO | Sent: Bai-Kakaji Polymers Ltd
+2026-09-12 20:35:06,618 | INFO | Sent: Lippi Systems Ltd-$
+2026-09-12 20:35:08,465 | INFO | Sent: Kesoram Industries Ltd
+2026-09-12 20:35:10,337 | INFO | Sent: Raghunath Tobacco Company Ltd
+2026-09-12 20:35:12,306 | INFO | Sent: Valencia Nutrition Ltd
+2026-09-12 20:35:14,180 | INFO | Sent: Indigo Paints Ltd
+2026-09-12 20:35:16,055 | INFO | Sent: T & I Global Ltd
+2026-09-12 20:35:17,953 | INFO | Sent: Unisem Agritech Ltd
+2026-09-12 20:35:19,865 | INFO | Sent: Integrated Capital Services Ltd
+2026-09-12 20:35:21,726 | INFO | Sent: KIC Metaliks Ltd
+2026-09-12 20:35:23,594 | INFO | Sent: Balaji Amines Ltd-$
+2026-09-12 20:35:25,501 | INFO | Sent: Sedemac Mechatronics Ltd
+2026-09-12 20:35:27,467 | INFO | Sent: Baron Infotech Ltd
+2026-09-12 20:35:29,341 | INFO | Sent: Ludlow Jute & Specialities Ltd
+2026-09-12 20:35:31,189 | INFO | Sent: Viji Finance Ltd
+2026-09-12 20:35:33,077 | INFO | Sent: JSW Energy Ltd
+2026-09-12 20:35:34,939 | INFO | Sent: Aptus Pharma Ltd
+2026-09-12 20:35:36,843 | INFO | Sent: Globe Civil Projects Ltd
+2026-09-12 20:35:38,753 | INFO | Sent: Aztec Fluids & Machinery Ltd
+2026-09-12 20:35:40,612 | INFO | Sent: Sportking India Ltd
+2026-09-12 20:35:42,494 | INFO | Sent: Ranjit Securities Ltd
+2026-09-12 20:35:44,456 | INFO | Sent: Davangere Sugar Company Ltd
+2026-09-12 20:35:46,314 | INFO | Sent: Shivom Investment & Consultancy Ltd
+2026-09-12 20:35:48,176 | INFO | Sent: Aarti Surfactants Ltd
+2026-09-12 20:35:50,010 | INFO | Sent: Suryachakra Power Corporation Ltd
+2026-09-12 20:35:51,902 | INFO | Sent: RTS Power Corporation Ltd
+2026-09-12 20:35:53,843 | INFO | Sent: Mukka Proteins Ltd
+2026-09-12 20:35:55,705 | INFO | Sent: Vivanza Biosciences Ltd
+2026-09-12 20:35:57,522 | INFO | Ctrl+C mila, bot band kar raha hoon.
+2026-09-12 20:38:22,997 | INFO | =======================================================
+2026-09-12 20:38:22,997 | INFO |   BSE Announcements -> Telegram Bot Started
+2026-09-12 20:38:22,998 | INFO |   Poll interval: 180s
+2026-09-12 20:38:22,998 | INFO | =======================================================
+2026-09-12 20:38:22,998 | INFO | Pehle se 0 announcements 'seen' hai (dedup list)
+2026-09-12 20:38:27,611 | INFO | 91 naye IMPORTANT announcements mile, Telegram par bhej raha hoon...
+2026-09-12 20:38:28,335 | INFO | Sent: Avantel Ltd
+2026-09-12 20:38:30,167 | INFO | Sent: Dolphin Medical Services Ltd
+2026-09-12 20:38:31,997 | INFO | Sent: Airfloa Rail Technology Ltd
+2026-09-12 20:38:33,848 | INFO | Sent: Saboo Sodium Chloro Ltd
+2026-09-12 20:38:35,696 | INFO | Sent: Grand Foundry Ltd
+2026-09-12 20:38:37,573 | INFO | Sent: Subhash Silk Mills Ltd
+2026-09-12 20:38:39,456 | INFO | Sent: LAPL Automotive Ltd
+2026-09-12 20:38:41,313 | INFO | Sent: Oscar Global Ltd
+2026-09-12 20:38:43,138 | INFO | Sent: T T Ltd-$
+2026-09-12 20:38:45,065 | INFO | Sent: Prime Industries Ltd
+2026-09-12 20:38:46,957 | INFO | Sent: Prime Industries Ltd
+2026-09-12 20:38:48,783 | INFO | Sent: Premier Capital Services Ltd
+2026-09-12 20:38:50,622 | INFO | Sent: Nihar Info Global Ltd
+2026-09-12 20:38:52,481 | INFO | Sent: Aspira Pathlab & Diagnostics Ltd
+2026-09-12 20:38:54,342 | INFO | Sent: Padmanabh Alloys & Polymers Ltd
+2026-09-12 20:38:56,231 | INFO | Sent: Padmanabh Alloys & Polymers Ltd
+2026-09-12 20:38:58,076 | INFO | Sent: JSW Steel Ltd
+2026-09-12 20:38:59,912 | INFO | Sent: BLB Ltd
+2026-09-12 20:39:01,801 | INFO | Sent: Beekay Steel Industries Ltd
+2026-09-12 20:39:03,618 | INFO | Sent: Shah Alloys Ltd
+2026-09-12 20:39:05,450 | INFO | Sent: RRIL Ltd
+2026-09-12 20:39:07,298 | INFO | Sent: South West Pinnacle Exploration Ltd
+2026-09-12 20:39:09,159 | INFO | Sent: SJ Corporation Ltd
+2026-09-12 20:39:11,195 | INFO | Sent: Jaro Institute of Technology Management and Research Ltd
+2026-09-12 20:39:13,062 | INFO | Sent: W. S. Industries (India) Ltd-$
+2026-09-12 20:39:14,932 | INFO | Sent: Continental Securities Ltd
+2026-09-12 20:39:16,810 | INFO | Sent: Gala Global Products Ltd
+2026-09-12 20:39:18,668 | INFO | Sent: Continental Securities Ltd
+2026-09-12 20:39:20,535 | INFO | Sent: Max heights Infrastucture Ltd
+2026-09-12 20:39:22,410 | INFO | Sent: 7NR Retail Ltd
+2026-09-12 20:39:24,230 | INFO | Sent: Bodal Chemicals Ltd
+2026-09-12 20:39:26,101 | INFO | Sent: 7NR Retail Ltd
+2026-09-12 20:39:27,970 | INFO | Sent: SJ Corporation Ltd
+2026-09-12 20:39:29,867 | INFO | Sent: SJ Corporation Ltd
+2026-09-12 20:39:31,743 | INFO | Sent: 7NR Retail Ltd
+2026-09-12 20:39:33,646 | INFO | Sent: Kesoram Industries Ltd
+2026-09-12 20:39:35,525 | INFO | Sent: Globe Civil Projects Ltd
+2026-09-12 20:39:37,397 | INFO | Sent: Ranjit Securities Ltd
+2026-09-12 20:39:39,253 | INFO | Sent: Shivom Investment & Consultancy Ltd
+2026-09-12 20:39:41,122 | INFO | Sent: 7NR Retail Ltd
+2026-09-12 20:39:43,070 | INFO | Sent: Nuvama Wealth Management Ltd
+2026-09-12 20:39:44,961 | INFO | Sent: Aspira Pathlab & Diagnostics Ltd
+2026-09-12 20:39:46,854 | INFO | Sent: HLE Glascoat Ltd
+2026-09-12 20:39:48,711 | INFO | Sent: HLE Glascoat Ltd
+2026-09-12 20:39:50,528 | INFO | Sent: HLE Glascoat Ltd
+2026-09-12 20:39:52,360 | INFO | Sent: NCL Industries Ltd-$
+2026-09-12 20:39:54,208 | INFO | Sent: Veefin Solutions Ltd
+2026-09-12 20:39:56,047 | INFO | Sent: Chiraharit Ltd
+2026-09-12 20:39:58,065 | INFO | Sent: Chiraharit Ltd
+2026-09-12 20:39:59,989 | INFO | Sent: Chiraharit Ltd
+2026-09-12 20:40:01,832 | INFO | Sent: Indong Tea Company Ltd
+2026-09-12 20:40:03,705 | INFO | Sent: 7NR Retail Ltd
+2026-09-12 20:40:05,547 | INFO | Sent: Aurobindo Pharma Ltd
+2026-09-12 20:40:07,435 | INFO | Sent: 7NR Retail Ltd
+2026-09-12 20:40:09,255 | INFO | Sent: 7NR Retail Ltd
+2026-09-12 20:40:11,225 | INFO | Sent: 7NR Retail Ltd
+2026-09-12 20:40:13,143 | INFO | Sent: Tavexia Lifecare Ltd
+2026-09-12 20:40:15,017 | INFO | Sent: Ajwa Fun World & Resort Ltd
+2026-09-12 20:40:16,952 | INFO | Sent: Sumedha Fiscal Services Ltd
+2026-09-12 20:40:18,815 | INFO | Sent: Worth Investment & Trading Co Ltd
+2026-09-12 20:40:20,762 | INFO | Sent: Silver Touch Technologies Ltd
+2026-09-12 20:40:22,765 | INFO | Sent: Rallis India Ltd
+2026-09-12 20:40:24,611 | INFO | Sent: Siemens Ltd
+2026-09-12 20:40:26,491 | INFO | Sent: Shakti Pumps India Ltd-$
+2026-09-12 20:40:28,336 | INFO | Sent: Black Buck Ltd
+2026-09-12 20:40:30,243 | INFO | Sent: Kairosoft AI Solutions Ltd
+2026-09-12 20:40:32,126 | INFO | Sent: Inter State Oil Carrier Ltd
+2026-09-12 20:40:34,078 | INFO | Sent: Navkar Urbanstructure Ltd
+2026-09-12 20:40:35,935 | INFO | Sent: Msl Global Ltd
+2026-09-12 20:40:37,767 | INFO | Sent: Asian Hotels (West) Ltd
+2026-09-12 20:40:39,755 | INFO | Sent: Granules India Ltd-$
+2026-09-12 20:40:41,613 | INFO | Sent: Inter State Oil Carrier Ltd
+2026-09-12 20:40:43,468 | INFO | Sent: Reliable Ventures India Ltd
+2026-09-12 20:40:45,369 | INFO | Sent: Rama Steel Tubes Ltd
+2026-09-12 20:40:47,208 | INFO | Sent: Msl Global Ltd
+2026-09-12 20:40:49,015 | INFO | Sent: Msl Global Ltd
+2026-09-12 20:40:50,845 | INFO | Sent: Msl Global Ltd
+2026-09-12 20:40:52,692 | INFO | Sent: Msl Global Ltd
+2026-09-12 20:40:54,653 | INFO | Sent: GPT Infraprojects Ltd
+2026-09-12 20:40:56,507 | INFO | Sent: Jamna Auto Industries Ltd
+2026-09-12 20:40:58,468 | INFO | Sent: Jamna Auto Industries Ltd
+2026-09-12 20:41:00,328 | INFO | Sent: Reliable Ventures India Ltd
+2026-09-12 20:41:02,231 | INFO | Sent: Reliable Ventures India Ltd
+2026-09-12 20:41:04,091 | INFO | Sent: Msl Global Ltd
+2026-09-12 20:41:06,063 | INFO | Sent: RMC Switchgears Ltd
+2026-09-12 20:41:07,911 | INFO | Sent: South West Pinnacle Exploration Ltd
+2026-09-12 20:41:09,766 | INFO | Sent: Cupid Ltd-$
+2026-09-12 20:41:11,622 | INFO | Sent: Msl Global Ltd
+2026-09-12 20:41:13,476 | INFO | Sent: IZMO Ltd-$
+2026-09-12 20:41:15,312 | INFO | Sent: Asian Paints Ltd
+2026-09-12 20:41:17,152 | INFO | Sent: Symbiotec Pharmalab Ltd
+2026-09-12 20:42:35,196 | INFO | =======================================================
+2026-09-12 20:42:35,196 | INFO |   BSE Announcements -> Telegram Bot Started
+2026-09-12 20:42:35,196 | INFO |   Poll interval: 180s
+2026-09-12 20:42:35,197 | INFO | =======================================================
+2026-09-12 20:42:35,220 | INFO | Pehle se 346 announcements 'seen' hai (dedup list)
+2026-09-12 20:42:35,220 | INFO | Startup: aaj tak ke maujooda announcements check kar raha hoon (bhejunga nahi, bas mark karunga)...
+2026-09-12 20:42:39,327 | INFO | 0 pehle se maujood announcements skip kar diye gaye (Telegram par nahi bheje).
+2026-09-12 20:42:43,484 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 346, is cycle mein skip kiye: 0)
+2026-09-12 20:45:44,798 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 347, is cycle mein skip kiye: 1)
+2026-09-12 20:48:46,212 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 347, is cycle mein skip kiye: 0)
+2026-09-12 20:51:44,316 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 347, is cycle mein skip kiye: 0)
+2026-09-12 20:54:29,973 | INFO | =======================================================
+2026-09-12 20:54:29,973 | INFO |   BSE Announcements -> Telegram Bot Started
+2026-09-12 20:54:29,973 | INFO |   Poll interval: 180s
+2026-09-12 20:54:29,974 | INFO | =======================================================
+2026-09-12 20:54:29,981 | INFO | Pehle se 347 announcements 'seen' hai (dedup list)
+2026-09-12 20:54:29,982 | INFO | Startup: aaj tak ke maujooda announcements check kar raha hoon (bhejunga nahi, bas mark karunga)...
+2026-09-12 20:54:35,427 | INFO | 0 pehle se maujood announcements skip kar diye gaye (Telegram par nahi bheje).
+2026-09-12 20:54:40,360 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 347, is cycle mein skip kiye: 0)
+2026-09-12 20:57:40,565 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 347, is cycle mein skip kiye: 0)
+2026-09-12 21:00:41,003 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 347, is cycle mein skip kiye: 0)
+2026-09-12 21:03:41,171 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 347, is cycle mein skip kiye: 0)
+2026-09-12 21:06:43,543 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 348, is cycle mein skip kiye: 1)
+2026-09-12 21:09:40,807 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 348, is cycle mein skip kiye: 0)
+2026-09-12 21:12:41,132 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 348, is cycle mein skip kiye: 0)
+2026-09-12 21:15:46,487 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 348, is cycle mein skip kiye: 0)
+2026-09-12 21:18:41,631 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 348, is cycle mein skip kiye: 0)
+2026-09-12 21:21:40,458 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 349, is cycle mein skip kiye: 0)
+2026-09-12 21:24:43,322 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 349, is cycle mein skip kiye: 1)
+2026-09-12 21:27:39,894 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 349, is cycle mein skip kiye: 0)
+2026-09-12 21:30:40,131 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 350, is cycle mein skip kiye: 1)
+2026-09-12 21:33:40,545 | INFO | 1 naye IMPORTANT announcements mile, Telegram par bhej raha hoon...
+2026-09-12 21:33:44,255 | INFO | Sent: JMG Corporation Ltd
+2026-09-12 21:36:40,687 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 351, is cycle mein skip kiye: 0)
+2026-09-12 21:39:41,882 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 351, is cycle mein skip kiye: 0)
+2026-09-12 21:42:40,433 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 351, is cycle mein skip kiye: 0)
+2026-09-12 21:45:42,168 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 352, is cycle mein skip kiye: 1)
+2026-09-12 21:48:40,454 | INFO | 1 naye IMPORTANT announcements mile, Telegram par bhej raha hoon...
+2026-09-12 21:48:41,427 | INFO | Sent: Raymond Ltd
+2026-09-12 21:51:40,524 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 355, is cycle mein skip kiye: 2)
+2026-09-12 21:54:40,439 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 355, is cycle mein skip kiye: 0)
+2026-09-12 21:57:41,387 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 355, is cycle mein skip kiye: 0)
+2026-09-12 22:00:41,518 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 355, is cycle mein skip kiye: 0)
+2026-09-12 22:03:40,528 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 355, is cycle mein skip kiye: 0)
+2026-09-12 22:06:41,312 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 355, is cycle mein skip kiye: 0)
+2026-09-12 22:09:40,559 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 355, is cycle mein skip kiye: 0)
+2026-09-12 23:55:31,184 | INFO | 2 naye IMPORTANT announcements mile, Telegram par bhej raha hoon...
+2026-09-12 23:55:31,971 | INFO | Sent: Kotyark Industries Ltd
+2026-09-12 23:55:33,931 | INFO | Sent: Axel Polymers Ltd
+2026-09-12 23:58:30,647 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 367, is cycle mein skip kiye: 0)
+2026-09-13 00:01:25,891 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 1, is cycle mein skip kiye: 1)
+2026-09-13 00:04:25,961 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 1, is cycle mein skip kiye: 0)
+2026-09-13 00:07:25,771 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 1, is cycle mein skip kiye: 0)
+2026-09-13 09:29:39,945 | INFO | 1 naye IMPORTANT announcements mile, Telegram par bhej raha hoon...
+2026-09-13 09:29:40,710 | INFO | Sent: Samvardhana Motherson International Ltd
+2026-09-13 09:32:39,838 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 4, is cycle mein skip kiye: 0)
+2026-09-13 09:35:40,156 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 4, is cycle mein skip kiye: 0)
+2026-09-13 09:38:39,738 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 4, is cycle mein skip kiye: 0)
+2026-09-13 09:41:39,793 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 4, is cycle mein skip kiye: 0)
+2026-09-13 09:44:39,771 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 4, is cycle mein skip kiye: 0)
+2026-09-13 09:47:40,983 | INFO | Koi naya IMPORTANT announcement nahi (total aaj: 5, is cycle mein skip kiye: 1)
+2026-10-05 09:07:53,780 | INFO | =======================================================
+2026-10-05 09:07:53,781 | INFO |   BSE Announcements -> Telegram Bot Started
+2026-10-05 09:07:53,783 | INFO |   Poll interval: 180s
+2026-10-05 09:07:53,783 | INFO | =======================================================
+2026-10-05 09:07:53,801 | INFO | Pehle se 372 announcements 'seen' hai (dedup list)
+2026-10-05 09:07:53,801 | INFO | Startup: aaj tak ke maujooda announcements check kar raha hoon (bhejunga nahi, bas mark karunga)...
+2026-10-05 09:07:58,030 | INFO | =======================================================
+2026-10-05 09:07:58,753 | INFO |   BSE Announcements -> Telegram Bot Started
+2026-10-05 09:07:58,755 | INFO |   Poll interval: 180s
+2026-10-05 09:07:58,757 | INFO | =======================================================
+2026-10-05 09:07:58,759 | INFO | Pehle se 372 announcements 'seen' hai (dedup list)
+2026-10-05 09:07:58,761 | INFO | Startup: aaj tak ke maujooda announcements check kar raha hoon (bhejunga nahi, bas mark karunga)...
+2026-10-05 09:07:59,233 | WARNING | Startup priming fail hui (BSE se connect nahi ho paya): 403: Forbidden. Chinta mat karo, agle check cycle mein normal filter chalega.
+2026-10-05 09:08:00,655 | WARNING | Fetch fail (attempt 1/3): 403: Forbidden
+2026-10-05 09:08:12,542 | INFO | =======================================================
+2026-10-05 09:08:12,543 | INFO |   BSE Announcements -> Telegram Bot Started
+2026-10-05 09:08:12,543 | INFO |   Poll interval: 180s
+2026-10-05 09:08:12,543 | INFO | =======================================================
+2026-10-05 09:08:12,544 | INFO | Pehle se 372 announcements 'seen' hai (dedup list)
+2026-10-05 09:08:12,544 | INFO | Startup: aaj tak ke maujooda announcements check kar raha hoon (bhejunga nahi, bas mark karunga)...
+2026-10-05 09:08:12,780 | WARNING | Startup priming fail hui (BSE se connect nahi ho paya): 403: Forbidden. Chinta mat karo, agle check cycle mein normal filter chalega.
+2026-10-05 09:08:13,821 | WARNING | Fetch fail (attempt 1/3): 403: Forbidden
+2026-10-05 09:08:32,369 | INFO | =======================================================
+2026-10-05 09:08:32,370 | INFO |   BSE Announcements -> Telegram Bot Started
+2026-10-05 09:08:32,371 | INFO |   Poll interval: 180s
+2026-10-05 09:08:32,371 | INFO | =======================================================
+2026-10-05 09:08:32,372 | INFO | Pehle se 372 announcements 'seen' hai (dedup list)
+2026-10-05 09:08:32,373 | INFO | Startup: aaj tak ke maujooda announcements check kar raha hoon (bhejunga nahi, bas mark karunga)...
+2026-10-05 09:08:32,596 | WARNING | Startup priming fail hui (BSE se connect nahi ho paya): 403: Forbidden. Chinta mat karo, agle check cycle mein normal filter chalega.
+2026-10-19 10:01:05,204 | INFO | =======================================================
+2026-10-19 10:01:05,803 | INFO |   BSE Announcements -> Telegram Bot Started
+2026-10-19 10:01:05,803 | INFO |   Poll interval: 180s
+2026-10-19 10:01:05,804 | INFO | =======================================================
+2026-10-19 10:01:05,833 | INFO | Pehle se 372 announcements 'seen' hai (dedup list)
+2026-10-19 10:01:05,833 | INFO | Startup: aaj tak ke maujooda announcements check kar raha hoon (bhejunga nahi, bas mark karunga)...
+2026-10-19 10:01:06,410 | WARNING | Startup priming fail hui (BSE se connect nahi ho paya): 403: Forbidden. Chinta mat karo, agle check cycle mein normal filter chalega.
+2026-10-19 10:01:08,373 | WARNING | Fetch fail (attempt 1/3): 403: Forbidden
+2026-10-19 10:01:23,687 | WARNING | Fetch fail (attempt 2/3): 403: Forbidden
+2026-10-19 10:01:38,775 | WARNING | Fetch fail (attempt 3/3): 403: Forbidden
+2026-10-19 10:01:53,776 | ERROR | Is cycle mein BSE se data nahi mil paya: 403: Forbidden
+2026-10-19 10:04:08,614 | WARNING | Fetch fail (attempt 1/3): 403: Forbidden
+2026-10-19 10:04:23,742 | WARNING | Fetch fail (attempt 2/3): 403: Forbidden
+2026-10-19 10:04:38,948 | WARNING | Fetch fail (attempt 3/3): 403: Forbidden
+2026-10-19 10:04:53,949 | ERROR | Is cycle mein BSE se data nahi mil paya: 403: Forbidden
+2026-10-19 10:07:09,112 | WARNING | Fetch fail (attempt 1/3): 403: Forbidden
+2026-10-19 10:07:24,712 | WARNING | Fetch fail (attempt 2/3): 403: Forbidden
+2026-10-19 10:07:40,067 | WARNING | Fetch fail (attempt 3/3): 403: Forbidden
+2026-10-19 10:07:55,068 | ERROR | Is cycle mein BSE se data nahi mil paya: 403: Forbidden
+2026-10-19 10:10:08,349 | WARNING | Fetch fail (attempt 1/3): 403: Forbidden
+2026-10-19 10:10:23,736 | WARNING | Fetch fail (attempt 2/3): 403: Forbidden
+2026-10-19 10:10:39,204 | WARNING | Fetch fail (attempt 3/3): 403: Forbidden
+2026-10-19 10:10:54,206 | ERROR | Is cycle mein BSE se data nahi mil paya: 403: Forbidden
+2026-10-19 10:13:08,523 | WARNING | Fetch fail (attempt 1/3): 403: Forbidden
+2026-10-19 10:13:24,066 | WARNING | Fetch fail (attempt 2/3): 403: Forbidden
+2026-10-19 10:13:40,126 | WARNING | Fetch fail (attempt 3/3): 403: Forbidden
+2026-10-19 10:13:55,127 | ERROR | Is cycle mein BSE se data nahi mil paya: 403: Forbidden
